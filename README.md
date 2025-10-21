@@ -1,5 +1,25 @@
 # Task 3 - Frontend Setup Guide
-Overview:
+
+# Table of Contents
+
+* [Overview](#overview)
+* [What We Build](#what-we-build)
+* [Directory Structure](#directory-structure)
+* [Prerequisites](#prerequisites)
+    * [Required Software (Node/npm)](#prerequisites)
+    * [Backend Running](#backend-running)
+    * [Install Dependencies](#install-all-dependencies-this-takes-2-3-minutes)
+    * [Verify Installation](#verify-installation)
+* [Start Development Server](#start-development-server)
+* [Open in Browser](#open-in-browser)
+* [Testing](#testing)
+    * [Test 1: Create a Task](#test1-create-a-task)
+    * [Test 2: Execute a Task](#test2-execute-a-task)
+    * [Test 3: View Execution History](#test3-view-execution-history)
+    * [Test 4: Search](#test4-search)
+    * [Test 5: Delete](#test5-delete)
+  
+# Overview:
     This guide will help you set up the React 19 + TypeScript + Ant Design frontend for the Task Execution Manager.
 
 # What we build?
